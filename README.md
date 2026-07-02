@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunny9260/leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny9260/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sunny9260/leet-code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3637-trionic-array-i](https://github.com/sunny9260/leet-code/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
