@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunny9260/leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny9260/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sunny9260/leet-code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/sunny9260/leet-code/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny9260/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sunny9260/leet-code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sunny9260/leet-code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sunny9260/leet-code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/sunny9260/leet-code/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
