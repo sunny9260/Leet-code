@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sunny9260/leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunny9260/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sunny9260/leet-code/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny9260/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunny9260/leet-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sunny9260/leet-code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sunny9260/leet-code/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sunny9260/leet-code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sunny9260/leet-code/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/sunny9260/leet-code/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunny9260/leet-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sunny9260/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny9260/leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sunny9260/leet-code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sunny9260/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sunny9260/leet-code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sunny9260/leet-code/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sunny9260/leet-code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny9260/leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
