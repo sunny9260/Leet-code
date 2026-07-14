@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunny9260/leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny9260/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sunny9260/leet-code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sunny9260/leet-code/tree/master/0014-longest-common-prefix) |
 | [1288-remove-covered-intervals](https://github.com/sunny9260/leet-code/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sunny9260/leet-code/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny9260/leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sunny9260/leet-code/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sunny9260/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunny9260/leet-code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sunny9260/leet-code/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunny9260/leet-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sunny9260/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny9260/leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sunny9260/leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sunny9260/leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
