@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sunny9260/leet-code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sunny9260/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sunny9260/leet-code/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sunny9260/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/sunny9260/leet-code/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sunny9260/leet-code/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sunny9260/leet-code/tree/master/1301-number-of-paths-with-max-score) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sunny9260/leet-code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sunny9260/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunny9260/leet-code/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sunny9260/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny9260/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny9260/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sunny9260/leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sunny9260/leet-code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sunny9260/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sunny9260/leet-code/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sunny9260/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sunny9260/leet-code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny9260/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny9260/leet-code/tree/master/3534-path-existence-queries-in-a-graph-ii) |
