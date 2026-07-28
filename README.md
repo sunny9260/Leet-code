@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sunny9260/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunny9260/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunny9260/leet-code/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sunny9260/leet-code/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny9260/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/sunny9260/leet-code/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sunny9260/leet-code/tree/master/1288-remove-covered-intervals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny9260/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/sunny9260/leet-code/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sunny9260/leet-code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny9260/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sunny9260/leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
