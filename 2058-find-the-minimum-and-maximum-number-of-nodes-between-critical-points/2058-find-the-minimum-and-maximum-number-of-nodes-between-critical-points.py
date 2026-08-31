@@ -44,5 +44,4 @@ class Solution:
             result = [min_distance, max_distance]
 
         return result
-
         
