@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sunny9260/leet-code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunny9260/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sunny9260/leet-code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/sunny9260/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sunny9260/leet-code/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sunny9260/leet-code/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunny9260/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sunny9260/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sunny9260/leet-code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sunny9260/leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sunny9260/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sunny9260/leet-code/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sunny9260/leet-code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sunny9260/leet-code/tree/master/0877-stone-game) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunny9260/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sunny9260/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunny9260/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunny9260/leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sunny9260/leet-code/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
