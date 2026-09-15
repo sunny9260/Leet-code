@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sunny9260/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunny9260/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunny9260/leet-code/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sunny9260/leet-code/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/sunny9260/leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny9260/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/sunny9260/leet-code/tree/master/0835-image-overlap) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunny9260/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunny9260/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sunny9260/leet-code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/sunny9260/leet-code/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny9260/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunny9260/leet-code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunny9260/leet-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sunny9260/leet-code/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/sunny9260/leet-code/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/sunny9260/leet-code/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sunny9260/leet-code/tree/master/1301-number-of-paths-with-max-score) |
